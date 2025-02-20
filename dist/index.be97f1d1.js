@@ -611,6 +611,7 @@ function toggleMenu() {
     else mobileMenuEl.style.display = "none";
 }
 window.onload = init;
+let data = [];
 function init() {
     getCourseData();
 }
@@ -618,7 +619,7 @@ async function getCourseData() {
     try {
         const response = await fetch('https://webbutveckling.miun.se/files/ramschema_ht24.json');
         if (!response.ok) throw new Error("N\xe4tverksproblem - felaktigt svar fr\xe5n servern");
-        const data = await response.json();
+        data = await response.json();
         displayCourse(data);
     } catch (error) {
         console.error('Det uppstod ett fel:', error.message);
@@ -640,6 +641,16 @@ function displayCourse(data) {
         newRow.appendChild(newCourseProgression);
         coursesEl.appendChild(newRow);
     });
+}
+let sortButton1 = document.getElementById(`coursecode`);
+let sortButton2 = document.getElementById(`coursename`);
+let sortButton3 = document.getElementById(`progression`);
+sortButton1.addEventListener('click', ()=>sortTable(`code`));
+sortButton2.addEventListener('click', ()=>sortTable(`coursename`));
+sortButton3.addEventListener('click', ()=>sortTable(`progression`));
+function sortTable(column) {
+    data.sort((a, b)=>a[column].localeCompare(b[column]));
+    displayCourse(data);
 }
 
 },{}]},["cuTi7","75yxf"], "75yxf", "parcelRequire94c2")
