@@ -19,3 +19,47 @@ function toggleMenu(){
         mobileMenuEl.style.display = "none"
     }
 }
+
+window.onload = init;
+
+function init() {
+    getCourseData()
+}
+
+async function getCourseData() {
+    try {
+        const response = await fetch('https://webbutveckling.miun.se/files/ramschema_ht24.json');
+
+        if (!response.ok) {
+        throw new Error('Nätverksproblem - felaktigt svar från servern');
+    }
+
+    const data = await response.json();
+    displayCourse(data);
+    } catch (error) {
+        console.error('Det uppstod ett fel:', error.message);
+    }
+}
+
+function displayCourse(data) {
+    const coursesEl = document.getElementById(`appendEl`)
+    coursesEl.innerHTML = ``
+    data.forEach(course => {
+        let newRow = document.createElement(`tr`)
+        
+        let newCourseCode = document.createElement(`td`)
+        newCourseCode.textContent = course.code
+        newRow.appendChild(newCourseCode)
+
+        let newCourseName = document.createElement(`td`)
+        newCourseName.textContent = course.coursename
+        newRow.appendChild(newCourseName)
+
+        let newCourseProgression = document.createElement(`td`)
+        newCourseProgression.textContent = course.progression
+        newRow.appendChild(newCourseProgression)
+
+        coursesEl.appendChild(newRow)
+    });
+}
+
