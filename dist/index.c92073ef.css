@@ -195,4 +195,48 @@ header img {
     width: 100%;
   }
 }
+
+#tablegrid {
+  flex-direction: column;
+  gap: 20px;
+  max-width: 100%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 3%;
+  font-size: 1.3em;
+  display: flex;
+}
+
+#filtertable {
+  border: 2px solid #000;
+  border-radius: 12px;
+  padding: 1%;
+  font-size: 1.3em;
+}
+
+#coursename, #coursecode, #progression {
+  cursor: pointer;
+}
+
+#coursetable th, #coursetable td {
+  border-bottom: 1px solid #000;
+}
+
+#coursetable tr:first-child, #coursetable td:first-child {
+  border-right: 1px solid #000;
+}
+
+#coursetable tr:last-child, #coursetable td:last-child {
+  border-left: 1px solid #000;
+}
+
+#coursetable td {
+  padding: .5%;
+}
+
+@media (width <= 800px) {
+  #tablegrid {
+    margin: 0%;
+  }
+}
 /*# sourceMappingURL=index.c92073ef.css.map */

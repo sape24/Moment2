@@ -610,8 +610,9 @@ function toggleMenu() {
     if (style.display === "none") mobileMenuEl.style.display = "block";
     else mobileMenuEl.style.display = "none";
 }
-window.onload = init;
-let data = [];
+window.onload = init; // init funktionen anropas när sidan har laddats in
+let data = []; //globala variabler av datan från json och en global variabel av den filtrerade versionen av datan
+let filteredData = [];
 function init() {
     getCourseData();
 }
@@ -620,7 +621,7 @@ async function getCourseData() {
         const response = await fetch('https://webbutveckling.miun.se/files/ramschema_ht24.json');
         if (!response.ok) throw new Error("N\xe4tverksproblem - felaktigt svar fr\xe5n servern");
         data = await response.json();
-        displayCourse(data);
+        displayCourse(data); //anropar funktion med resultatet från JSON-datan
     } catch (error) {
         console.error('Det uppstod ett fel:', error.message);
     }
@@ -639,18 +640,33 @@ function displayCourse(data) {
         let newCourseProgression = document.createElement(`td`);
         newCourseProgression.textContent = course.progression;
         newRow.appendChild(newCourseProgression);
-        coursesEl.appendChild(newRow);
+        coursesEl.appendChild(newRow) //slutligen så appendas raden in i tbody
+        ;
     });
 }
-let sortButton1 = document.getElementById(`coursecode`);
+let sortButton1 = document.getElementById(`coursecode`) //Skapar en variabel av tabellrubrikerena (th)
+;
 let sortButton2 = document.getElementById(`coursename`);
 let sortButton3 = document.getElementById(`progression`);
-sortButton1.addEventListener('click', ()=>sortTable(`code`));
+sortButton1.addEventListener('click', ()=>sortTable(`code`)) //Skapar en eventlistener som lyssnar efter ett click på elementet, arrowfunction som anropar funktionen sortable med code, coursaname respektive progression som argument 
+;
 sortButton2.addEventListener('click', ()=>sortTable(`coursename`));
 sortButton3.addEventListener('click', ()=>sortTable(`progression`));
 function sortTable(column) {
     data.sort((a, b)=>a[column].localeCompare(b[column]));
     displayCourse(data);
+}
+let filterText = document.getElementById(`filtertable`) //skapar en variabel av sökrutan
+;
+filterText.addEventListener('keyup', filterTable) //eventlistener som lyssnar efter när användaren släpper en tangent anropar en function när den triggas
+;
+function filterTable() {
+    let inputText = filterText.value.toLocaleLowerCase() //variabel av vad användaren har skrivit in, tolocalelowercase så stor eller liten bokstav inte spelar roll
+    ;
+    filteredData = data.filter((course)=>course.code.toLocaleLowerCase().includes(inputText) || //lowercase av samma anledning som tidigare, .includes för att se om texten i sökrutan finns någonstans i datan, or operator så att om kurskod,kursnamn eller progression matchar så följer den med till den filtrerade versionen av datan
+        course.coursename.toLocaleLowerCase().includes(inputText) || course.progression.toLocaleLowerCase().includes(inputText));
+    displayCourse(filteredData) //uppdaterar tabellen med den filtrerade versionen
+    ;
 }
 
 },{}]},["cuTi7","75yxf"], "75yxf", "parcelRequire94c2")

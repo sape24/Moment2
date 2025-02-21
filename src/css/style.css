@@ -192,3 +192,47 @@ header img {
         width: 100%;
     }
 }
+
+#tablegrid{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    padding: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    gap: 20px;
+    font-size: 1.3em;
+}
+
+#filtertable{
+    font-size: 1.3em;
+    border: 2px solid black;
+    padding: 1%;
+    border-radius: 12px;
+}
+
+#coursename, #coursecode, #progression{
+    cursor: pointer;
+}
+
+#coursetable th ,#coursetable td{
+    border-bottom: 1px solid black;
+}
+
+#coursetable tr:first-child, #coursetable td:first-child {
+    border-right: 1px solid black;
+}
+
+#coursetable tr:last-child, #coursetable td:last-child{
+    border-left: 1px solid black;
+}
+
+#coursetable td{
+    padding: 0.5%;
+}
+
+@media (max-width: 800px){
+    #tablegrid{
+        margin: 0%;
+    }
+}

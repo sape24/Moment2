@@ -47,18 +47,19 @@
             </ul>
         </nav>
     </header>
-
-    <table id="coursetable" border="1">
-        <thead>
-            <tr>
-                <th id="coursecode">Kurskod</th>
-                <th id="coursename">Kursnamn</th>
-                <th id="progression">Progression</th>
-            </tr>
-        </thead>
-        <tbody id="appendEl">
-
-        </tbody>
-    </table>
+    <div id="tablegrid">
+        <input type="text" id="filtertable" placeholder="Sök efter kurskod eller kursnamn">
+        <table id="coursetable">
+            <thead>
+                <tr>
+                    <th id="coursecode">Kurskod</th>
+                    <th id="coursename">Kursnamn</th>
+                    <th id="progression">Progression</th>
+                </tr>
+            </thead>
+            <tbody id="appendEl">
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>

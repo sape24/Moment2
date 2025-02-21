@@ -1,4 +1,4 @@
-4349
+4353
 85C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@msgpackr-extract133843506423743662 1
 67C:\Users\samue\Desktop\frontend webbutveckling\Moment2\package.json133840979377294188 0
 119C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\css-text-wrap-balance.js133840025256388595 0
@@ -15,7 +15,7 @@
 94C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\utility-types\package.json133840025255327216 0
 93C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\ordered-binary\index.d.ts133840025252938543 0
 99C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\regions\IT.js133840025259549769 0
-59C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist133845398661530150 1
+59C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist133846301264905168 1
 96C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\electron-to-chromium\LICENSE133840025260451088 0
 90C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\escalade\sync\index.js133840025251967762 0
 121C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js133840025256953694 0
@@ -67,7 +67,7 @@
 120C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133840025267477883 0
 115C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\esm\_initializer_warning_helper.js133840025257518847 0
 94C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\optimizer-svgo\lib133843506433207009 1
-69C:\Users\samue\Desktop\frontend webbutveckling\Moment2\src\index.html133845366306449121 0
+69C:\Users\samue\Desktop\frontend webbutveckling\Moment2\src\index.html133846233220585059 0
 78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\color-name133843506471874886 1
 87C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\msgpackr\pack.d.cts133840025258619259 0
 80C:\Users\samue\Desktop\frontend webbutveckling\Moment2\src\bilder\fiskebatar.jpg133842654058703023 0
@@ -93,8 +93,8 @@
 99C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\regions\CI.js133840025254897426 0
 84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\error-ex\LICENSE133840025252047755 0
 126C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities133843506488968253 1
-77C:\Users\samue\Desktop\frontend webbutveckling\Moment2\src\javascript\main.js133845397859204338 0
-72C:\Users\samue\Desktop\frontend webbutveckling\Moment2\src\css\style.css133843510843200607 0
+77C:\Users\samue\Desktop\frontend webbutveckling\Moment2\src\javascript\main.js133846300971020071 0
+72C:\Users\samue\Desktop\frontend webbutveckling\Moment2\src\css\style.css133846237800687727 0
 90C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\sharp\lib\operation.js133840979369206679 0
 127C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\core\test\fixtures\application-targets\package.json133840025267697899 0
 94C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\fs\src\MemoryFS.js133840025265535571 0
@@ -107,7 +107,7 @@
 91C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\semver\functions\cmp.js133840025258268863 0
 78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\src\bilder\stromsan.jpg133842663127339143 0
 117C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133840025260229772 0
-88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstadshamn.11145efa.avif133845364880922411 0
+88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstadshamn.11145efa.avif133846233291007188 0
 86C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\timsort\LICENSE.md133840025260139774 0
 107C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\cjs\_apply_decs_2203_r.cjs133840025255618530 0
 76C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\escalade133843506477034320 1
@@ -193,7 +193,7 @@
 93C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\domhandler\lib\index.d.ts133840025252728536 0
 111C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\update-browserslist-db\check-npm-version.js133840025253048543 0
 77C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\callsites133843506460278940 1
-83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\ursholmen.5933bfbc.webp133845364880922411 0
+83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\ursholmen.5933bfbc.webp133846233291137477 0
 102C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\cosmiconfig\dist\defaults.d.ts.map133840025253238541 0
 81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\dotenv-expand133843506475404920 1
 121C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\rust\parcel-node-bindings.linux-x64-musl.node133840025329556749 0
@@ -552,7 +552,7 @@
 99C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\regions\PL.js133840025262191783 0
 90C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\msgpackr\dist\index.js133840025258769246 0
 111C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\entities\lib\generated\decode-data-xml.d.ts133840025253602279 0
-87C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstadshamn.2c82629f.jpg133845364883106381 0
+87C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstadshamn.2c82629f.jpg133846233292936345 0
 92C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\domutils\lib\querying.js133840025252638537 0
 98C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\type-fest\ts41\camel-case.d.ts133840025252998537 0
 105C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\utility-types\dist\utility-types.d.ts133840025255458527 0
@@ -668,7 +668,7 @@
 103C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\type-fest\source\tsconfig-json.d.ts133840025255027192 0
 104C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c133840025259479771 0
 113C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\css-text-indent.js133840025256358600 0
-82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\ursholmen.70c865d6.jpg133845364882489849 0
+82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\ursholmen.70c865d6.jpg133846233292107611 0
 116C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\posthtml\node_modules\htmlparser2\lib\index.d.ts133840025266806572 0
 103C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\lightningcss-win32-x64-msvc\LICENSE133840025252357808 0
 109C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\esm\_class_name_tdz_error.js133840025257083713 0
@@ -680,7 +680,7 @@
 82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\srcset\license133840025253542278 0
 128C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133840025259129246 0
 98C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\core\src\buildCache.js133840025265655582 0
-82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstad.4d88a48f.jpg133845364882259559 0
+82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstad.4d88a48f.jpg133846233292005477 0
 95C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\type-fest\source\entry.d.ts133840025253108547 0
 84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\msgpackr\pack.js133840025258979268 0
 98C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\cosmiconfig\dist\util.d.ts.map133840025253592279 0
@@ -984,7 +984,7 @@
 90C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\entities\lib\generated133843506476654321 1
 124C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133843506428731371 1
 87C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\sharp\lib\colour.js133840979369106698 0
-88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.71857652.webp133845364880922411 0
+88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.71857652.webp133846233291007188 0
 122C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133840025257193700 0
 119C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133840025259639770 0
 90C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\sharp\lib\composite.js133840979369116692 0
@@ -1267,7 +1267,7 @@
 80C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\lmdb\open.js133840025261421177 0
 111C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\posthtml\node_modules\entities\package.json133840025266496592 0
 88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\json5\lib\index.d.ts133840025259189245 0
-83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstad.04a5ab3d.avif133845364880922411 0
+83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstad.04a5ab3d.avif133846233291227637 0
 97C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\domutils\lib\esm\feeds.js.map133840025252998537 0
 108C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\posthtml\node_modules\entities\readme.md133840025266576575 0
 99C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\regions\GY.js133840025258248861 0
@@ -1470,7 +1470,7 @@
 91C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\parse-json\package.json133840025252448540 0
 90C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\parent-module\index.js133840025252407809 0
 88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\msgpackr-extract\src133843506486137957 1
-82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromsan.e716559e.avif133845364880922411 0
+82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromsan.e716559e.avif133846233291177476 0
 89C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\ordered-binary\assets133843506487413107 1
 94C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\parent-module\package.json133840025252367809 0
 93C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\core\src\index.js133840025266195567 0
@@ -1479,7 +1479,7 @@
 139C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133840025337534160 0
 109C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\css-lch-lab.js133840025255828554 0
 103C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\_\_array_without_holes133843506453792558 1
-87C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.833f99fa.png133845364882168785 0
+87C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.833f99fa.png133846233291227637 0
 78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\parcel\lib133843506487658207 1
 108C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\_\_await_value\package.json133840025258358910 0
 87C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\htmlnano\index.d.ts133840025259759780 0
@@ -1721,7 +1721,7 @@
 94C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\workers\index.d.ts133840025260731102 0
 121C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\lmdb\node_modules\node-addon-api\package-support.json133840025267517909 0
 102C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\workers\lib\core-worker.js133840025260029770 0
-81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.be97f1d1.js.map133845397859404285 0
+81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.be97f1d1.js.map133846300384797332 0
 78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\.bin\json5133840025337514162 0
 106C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\lmdb\node_modules\node-addon-api\tools133843506484537053 1
 102C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\markdown-ansi\package.json133840025254437431 0
@@ -2141,7 +2141,7 @@
 108C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\object-fit.js133840025261751787 0
 106C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\cjs\_set_prototype_of.cjs133840025256493701 0
 96C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\htmlnano\docs\versioned_docs133843506478086328 1
-88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstadshamn.10165adc.webp133845364880922411 0
+88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstadshamn.10165adc.webp133846233291227637 0
 100C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\htmlnano\docs\versioned_sidebars133843506478256336 1
 104C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\browserVersions.js133840025254697421 0
 102C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\dom-serializer\lib\foreignNames.js133840025252027762 0
@@ -2470,7 +2470,9 @@
 98C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\cosmiconfig\dist\readFile.d.ts133840025253752271 0
 109C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\videotracks.js133840025264205014 0
 102C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\cosmiconfig\dist\readFile.d.ts.map133840025253542278 0
+77C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.a898ea58.js133846301264571023 0
 96C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\cosmiconfig\dist\readFile.js133840025253108547 0
+81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.a898ea58.js.map133846301264884082 0
 100C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\cosmiconfig\dist\readFile.js.map133840025253562276 0
 113C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\iframe-seamless.js133840025258569242 0
 95C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\cosmiconfig\dist\types.d.ts133840025253762271 0
@@ -2587,7 +2589,7 @@
 111C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\core\test\PublicEnvironment.test.js133840025266876572 0
 99C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\regions\AG.js133840025253772264 0
 103C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\regions\alt-af.js133840025253882279 0
-78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.c92073ef.css133845364880932404 0
+78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.c92073ef.css133846237800901805 0
 103C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\regions\alt-na.js133840025253932276 0
 108C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\web-serial.js133840025264535313 0
 89C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\counter\index.js133840025254002282 0
@@ -3201,7 +3203,7 @@
 114C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js133840025264285052 0
 105C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\wasm-gc.js133840025264295079 0
 92C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\_\_identity133843506456451278 1
-76C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\information.html133845398660961935 0
+76C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\information.html133846301264571023 0
 123C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\_\_class_private_field_update\package.json133840025259039250 0
 115C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\wasm-multi-memory.js133840025264305061 0
 114C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\wasm-multi-value.js133840025264315058 0
@@ -3220,7 +3222,7 @@
 104C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\webhid.js133840025264615301 0
 114C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\webkit-user-drag.js133840025264625297 0
 102C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\webm.js133840025264635288 0
-83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.e8a2ae14.jpg133845364882374711 0
+83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.e8a2ae14.jpg133846233292067625 0
 104C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\webnfc.js133840025264645291 0
 102C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\webp.js133840025264645291 0
 104C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\caniuse-lite\data\features\webusb.js133840025264675287 0
@@ -3450,7 +3452,7 @@
 114C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\src\_class_private_field_init.mjs133840025261601769 0
 115C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js133840025265395346 0
 120C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\src\_class_private_field_loose_base.mjs133840025261621782 0
-84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.733340b5.webp133845364880932404 0
+84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.733340b5.webp133846233291137477 0
 119C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs133840025261631778 0
 113C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\src\_class_private_field_set.mjs133840025261651773 0
 116C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@swc\helpers\src\_class_private_field_update.mjs133840025261661773 0
@@ -3652,7 +3654,7 @@
 91C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\bundler-default133843506423993656 1
 81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\cache133843506424251461 1
 90C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\config-default133843506424948624 1
-88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.25434765.avif133845364880922411 0
+88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.25434765.avif133846233291217477 0
 80C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\core133843506426983697 1
 89C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\namer-default133843506432401865 1
 91C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\optimizer-image133843506433077011 1
@@ -3766,7 +3768,7 @@
 120C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js133840025267857894 0
 119C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\rust\parcel-node-bindings.darwin-arm64.node133840025285969715 0
 124C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133840025270305409 0
-83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\ursholmen.90d022ee.avif133845364880922411 0
+83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\ursholmen.90d022ee.avif133846233291217477 0
 121C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map133840025270325400 0
 110C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\utils\test\input\config\config.cjs133840025264355082 0
 93C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\utils\src\blob.js133840025264435306 0
@@ -3939,7 +3941,7 @@
 111C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\runtime-service-worker\package.json133840025261651773 0
 102C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\runtime-service-worker\src133843506439325818 1
 126C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133840025261631778 0
-84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.df1531d0.avif133845364880932404 0
+84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.df1531d0.avif133846233291237628 0
 101C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\runtime-react-refresh\lib133843506439105811 1
 124C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133840025261911766 0
 90C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\@parcel\runtime-js\lib133843506438107655 1
@@ -4314,34 +4316,36 @@
 83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\.bin\parcel.cmd133840025337524163 0
 83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\.bin\parcel.ps1133840025337524163 0
 79C:\Users\samue\Desktop\frontend webbutveckling\Moment2\node_modules\.bin\semver133840025337514162 0
-89C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\Amaranth-Regular.1e4bd300.ttf133845364880932404 0
+89C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\Amaranth-Regular.1e4bd300.ttf133846233291227637 0
 89C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\Amaranth-Regular.3f0739d2.ttf133845398624072703 0
 84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.6f01e9e0.webp133842684937920760 0
 84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.89f0b6a5.avif133845398629222398 0
 84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.94ec65f8.avif133842683708829572 0
 83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\fiskebatar.a5647ead.jpg133845398649664750 0
+78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.4f80759e.css133846301264571023 0
+82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.4f80759e.css.map133846301264899936 0
 78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.52d391f2.css133845398660961935 0
 78C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.5c4cb871.css133840980915740200 0
 82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.5c4cb871.css.map133840980915772669 0
 77C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.91e64a7d.js133840980915740200 0
 81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.91e64a7d.js.map133840980915772669 0
 77C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.bbe5418f.js133845398660961935 0
-77C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.be97f1d1.js133845397859384281 0
-82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.c92073ef.css.map133845364882248764 0
-70C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.html133845398660961935 0
+77C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.be97f1d1.js133846300384777287 0
+82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.c92073ef.css.map133846237800926953 0
+70C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\index.html133846301264571023 0
 83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\information.b1ebf003.js133840051948877881 0
 80C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\pictures.8b0afbb9.js133840051948877881 0
 84C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\pictures.8b0afbb9.js.map133840051948907868 0
-73C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\pictures.html133845398660961935 0
+73C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\pictures.html133846301264571023 0
 88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.26f16fc0.webp133845398631364950 0
 88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.3c274363.avif133840967256087078 0
 88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\STD_Logo_final.ee2eb746.avif133840969924204554 0
 81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromsan.01f8e2d7.jpg133845398631432977 0
-81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromsan.076c40e4.jpg133845364882269560 0
-82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromsan.479fb7cb.webp133845364880922411 0
+81C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromsan.076c40e4.jpg133846233291965479 0
+82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromsan.479fb7cb.webp133846233291227637 0
 82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromsan.bf781a18.webp133845398629212395 0
 83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstad.3691f341.avif133845398648511096 0
-83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstad.832df1d7.webp133845364880922411 0
+83C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstad.832df1d7.webp133846233291167499 0
 82C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstad.99db9b9b.jpg133845398629397724 0
 88C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstadshamn.0bba87e8.webp133845398648559838 0
 87C:\Users\samue\Desktop\frontend webbutveckling\Moment2\dist\stromstadshamn.e89b5c58.jpg133845398660977518 0
